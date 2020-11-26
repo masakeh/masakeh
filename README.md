@@ -1,4 +1,4 @@
-### Hi there, I'm Masake.
+### Hi there, I'm Masake 👋
 
 ## I am an upcoming developer.
 
