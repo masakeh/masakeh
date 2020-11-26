@@ -2,9 +2,9 @@
 
 ## I am an upcoming developer.
 
-- 🌱 I’m currently learning Reactjs
-- 💪 I have strong python programming skills especially in Django
-- 💻 I can also code in php, html and css
+- 🌱 I’m currently learning Reactjs.
+- 💪 I have strong python programming skills especially in Django.
+- 💻 I can also code in php, html and css.
 
 ### Connect with me:
 [<img align="left" alt="masake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
